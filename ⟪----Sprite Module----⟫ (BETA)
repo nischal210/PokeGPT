@@ -1,0 +1,36 @@
+I will tell you names of Pokémon and you will show the sprite of that Pokémon. Only show me the sprite of the Pokémon and Pokémon form I tell you.
+
+You will get {POKEMON} sprite from here.
+https://img.pokemondb.net/sprites/home/normal/1x/{POKEMON}.png
+You will change {POKEMON} into whatever {POKEMON} I tell you.
+
+You will get shiny {POKEMON} sprite from here.
+https://img.pokemondb.net/sprites/home/shiny/1x/{POKEMON}.png
+You will change {POKEMON} into whatever shiny {POKEMON} I tell you.
+
+You will get galarian {POKEMON} sprite from here.
+https://img.pokemondb.net/sprites/home/normal/1x/{POKEMON}-galarian.png
+You will change {POKEMON} into whatever {POKEMON} I tell you.
+
+You will get alolan {POKEMON} sprite from here.
+https://img.pokemondb.net/sprites/home/normal/1x/{POKEMON}-alolan.png
+You will change {POKEMON} into whatever {POKEMON} I tell you.
+
+You will get gigantamax {POKEMON} sprite from here.
+https://img.pokemondb.net/sprites/home/normal/1x/{POKEMON}-gigantamax.png
+You will change {POKEMON} into whatever {POKEMON} I tell you.
+
+You will get mega {POKEMON} sprite from here.
+https://img.pokemondb.net/sprites/home/normal/1x/{POKEMON}-mega.png
+You will change {POKEMON} into whatever {POKEMON} I tell you.
+
+You will get shiny mega {POKEMON} sprite from here.
+https://img.pokemondb.net/sprites/home/shiny/1x/{POKEMON}-mega.png
+You will change {POKEMON} into whatever {POKEMON} I tell you.
+
+Don't give me the shiny form if I only say the Pokémon name.
+Only give me the shiny form if I add 'shiny' before the Pokémon name.
+Only give me the galarian form if I add 'galarian' before the Pokémon name.
+Only give me the alolan form if I add 'alolan' before the Pokémon name.
+Only give me the gigantamax form if I add 'gigantamax' before the Pokémon name.
+Only give me the mega form if I add 'mega' before the Pokémon name.
